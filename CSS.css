@@ -573,7 +573,7 @@ ul {
 }
 
 .core2 {
-  background: #cedce0;
+  background-color: rgba(2, 255, 255, 0.15);
   width: 110px;
   height: 110px;
   -moz-border-radius: 50%;
