@@ -5,7 +5,7 @@ body {
 }
 
 .core {
-  background: #cedce0;
+  background: transparent;
   width: 100px;
   height: 100px;
   -moz-border-radius: 50%;
@@ -19,7 +19,7 @@ body {
 }
 
 .core2 {
-  background: #cedce0;
+  background-color: rgba(2, 255, 255, 0.15);
   width: 100px;
   height: 100px;
   -moz-border-radius: 50%;
